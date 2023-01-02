@@ -27,3 +27,12 @@ Burada tüm kararları sen vereceksin. Ne inşa ettiğinizi görmek için heyeca
 - [ ] API'den Redux storeuna veri ekleyin
 - [ ] Storedaki verileri bir bileşende görüntüleyin
 - [ ] Bazı _stiller_ uygulanmalıdır. Basit olabilir, ancak uygulamanız yalnızca tarayıcının varsayılan stillerini kullanmamalıdır
+
+
+recreational
+social
+charity
+education
+music
+busywork
+relaxation
