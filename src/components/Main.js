@@ -28,7 +28,7 @@ const Main = () => {
 
   function handleBegen() {
     myDispatch(likeFact(dataValue));
-    setTimeout(boredApi, 1000);
+    setTimeout(boredApi, 300);
   }
 
   return (
